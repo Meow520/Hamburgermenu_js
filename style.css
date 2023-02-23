@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: #de9084;
+    padding: 5px 15px;
+}
+input {
+    padding: auto 0;
+    font-size: 40px;
+    color: rgb(254, 239, 239);
+    margin: auto;
+    border: none;
+    background-color: #de9084;
+}
+input:hover {
+    color: rgb(254, 213, 213);
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+li {
+    font-size: 20px;
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.close {
+    background: #9d9d9d8b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    width: 100%;
+    top: -200px;
+}
+.open {
+    background: #9d9d9d8b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
